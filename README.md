@@ -3,11 +3,12 @@ How to create charts in R The Economist-style
 
 
 Re-create The Economist graph using ggplot2
+
 So I was looking for some materials for ggplot2 and found a Workshop note from Harvard- Data Sciences Services. (http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html)
 
-They start with an amazing graph from the Economist and state that we will be able to recreate the graph at the end of the workshop using GGPLOT2. Eventhough the materials in the workshop are not enough (not even close) to create a chart like this, it is still an amazing materials for those who want to explore ggplot2 in R.
+They start with an amazing graph from the Economist and state that we will be able to recreate the graph at the end of the workshop using GGPLOT2. Even though the materials in the workshop are not enough (not even close) to create a chart like this, it is still an amazing materials for those who want to explore ggplot2 in R.
 
-Here is the Economist graph. 
+ 
 ##Required Packages
 
 library(ggrepel) #Add point labels
